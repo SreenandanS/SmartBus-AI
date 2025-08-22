@@ -1,0 +1,8 @@
+numpy
+scikit-learn
+pulp
+fastapi
+uvicorn
+joblib
+requests
+pydantic
