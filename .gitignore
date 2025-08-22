@@ -1,0 +1,27 @@
+# Python cache and bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.env/
+venv/
+ENV/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Trained models
+models/*.pkl
+
+# IDE configs
+.vscode/
+.idea/
